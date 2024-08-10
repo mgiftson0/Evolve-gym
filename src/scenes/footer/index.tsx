@@ -15,7 +15,7 @@ const Footer = () => {
           </p>
           <p>© Evovle Gym All Rights Reserved.</p>
           <div className="mt-5 flex gap-4">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/mgiftson0" target="_blank" rel="noopener noreferrer">
               <GitHubIcon className="text-gray-400 hover:text-gray-600" />
             </a>
             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
